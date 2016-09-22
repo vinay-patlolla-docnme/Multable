@@ -1,0 +1,214 @@
+Welcome to the Multiplication Game by Liberty Page! 
+Pick your multiplication Table (2 to 12): 
+3
+What is 3×12
+36
+Correct, you have 1 right answer/answers!
+What is 3×11
+33
+Correct, you have 2 right answer/answers!
+What is 3×2
+6
+Correct, you have 3 right answer/answers!
+What is 3×10
+30
+Correct, you have 4 right answer/answers!
+What is 3×9
+27
+Correct, you have 5 right answer/answers!
+What is 3×3
+9
+Correct, you have 6 right answer/answers!
+What is 3×8
+24
+Correct, you have 7 right answer/answers!
+What is 3×7
+21
+Correct, you have 8 right answer/answers!
+What is 3×6
+18
+Correct, you have 9 right answer/answers!
+What is 3×5
+15
+Correct, you have 10 right answer/answers!
+What is 3×4
+12
+Correct, you have 11 right answer/answers!
+What is 3×2
+6
+Correct, you have 12 right answer/answers!
+Congratulations, you have won a Gold medal for 12 correct answers!
+
+
+
+
+
+Welcome to the Multiplication Game by Liberty Page! 
+Pick your multiplication Table (2 to 12): 
+5
+What is 5×3
+15
+Correct, you have 1 right answer/answers!
+What is 5×6
+30
+Correct, you have 2 right answer/answers!
+What is 5×12
+60
+Correct, you have 3 right answer/answers!
+What is 5×8
+41
+Sorry, try again. You have 3 right answer/answers so far
+What is 5×11
+56
+Sorry, try again. You have 3 right answer/answers so far
+What is 5×10
+50
+Correct, you have 4 right answer/answers!
+What is 5×9
+45
+Correct, you have 5 right answer/answers!
+What is 5×7
+30
+Sorry, try again. You have 5 right answer/answers so far
+What is 5×5
+24
+Sorry, try again. You have 5 right answer/answers so far
+What is 5×4
+20
+Correct, you have 6 right answer/answers!
+What is 5×2
+10
+Correct, you have 7 right answer/answers!
+5 × 2 = 10
+5 × 3 = 15
+5 × 4 = 20
+5 × 5 = 25
+5 × 6 = 30
+5 × 7 = 35
+5 × 8 = 40
+5 × 9 = 45
+5 × 10 = 50
+5 × 11 = 55
+5 × 12 = 60
+Study hard and try again!
+
+
+Welcome to the Multiplication Game by Liberty Page! 
+Pick your multiplication Table (2 to 12): 
+4
+What is 4×12
+48
+Correct, you have 1 right answer/answers!
+What is 4×9
+36
+Correct, you have 2 right answer/answers!
+What is 4×4
+16
+Correct, you have 3 right answer/answers!
+What is 4×2
+8
+Correct, you have 4 right answer/answers!
+What is 4×11
+44
+Correct, you have 5 right answer/answers!
+What is 4×7
+28
+Correct, you have 6 right answer/answers!
+What is 4×10
+40
+Correct, you have 7 right answer/answers!
+What is 4×6
+24
+Correct, you have 8 right answer/answers!
+What is 4×8
+32
+Correct, you have 9 right answer/answers!
+What is 4×5
+21
+Sorry, try again. You have 9 right answer/answers so far
+What is 4×3
+12
+Correct, you have 10 right answer/answers!
+What is 4×2
+7
+Sorry, try again. You have 10 right answer/answers so far
+Congratulations, you have won a Silver medal for 10 correct answers!
+
+
+for Max_offer = 2 
+
+Welcome to the Multiplication Game by Liberty Page! 
+Pick your multiplication Table (2 to 12): 
+2
+What is 2×2
+4
+Correct, you have 1 right answer/answers!
+What is 2×7
+14
+Correct, you have 2 right answer/answers!
+What is 2×12
+24
+Correct, you have 3 right answer/answers!
+What is 2×6
+12
+Correct, you have 4 right answer/answers!
+What is 2×12
+24
+Correct, you have 5 right answer/answers!
+What is 2×9
+18
+Correct, you have 6 right answer/answers!
+What is 2×7
+14
+Correct, you have 7 right answer/answers!
+What is 2×2
+4
+Correct, you have 8 right answer/answers!
+What is 2×10
+20
+Correct, you have 9 right answer/answers!
+What is 2×11
+22
+Correct, you have 10 right answer/answers!
+What is 2×9
+18
+Correct, you have 11 right answer/answers!
+What is 2×3
+6
+Correct, you have 12 right answer/answers!
+What is 2×5
+10
+Correct, you have 13 right answer/answers!
+What is 2×3
+6
+Correct, you have 14 right answer/answers!
+What is 2×4
+8
+Correct, you have 15 right answer/answers!
+What is 2×10
+20
+Correct, you have 16 right answer/answers!
+What is 2×5
+10
+Correct, you have 17 right answer/answers!
+What is 2×8
+16
+Correct, you have 18 right answer/answers!
+What is 2×6
+12
+Correct, you have 19 right answer/answers!
+What is 2×4
+8
+Correct, you have 20 right answer/answers!
+What is 2×2
+4
+Correct, you have 21 right answer/answers!
+Congratulations, you have won a Gold medal for 21 correct answers!
+
+
+
+
+
+
+
+
